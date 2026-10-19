@@ -1,11 +1,11 @@
 # SoNo-sky DART Financial Agent
 
-[![🔗 대시보드 바로가기](https://img.shields.io/badge/%F0%9F%94%97-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%20%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-155EEF?style=for-the-badge)](https://hsc-class02.github.io/SoNo-sky/)
+[![🔗 대시보드 바로가기](https://img.shields.io/badge/%F0%9F%94%97-%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%20%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-155EEF?style=for-the-badge)](https://hsc-class02.github.io/wj-LG/)
 
 DART(OpenDART)에서 SoNo-sky 관련 정기보고서의 재무정보를 수집하고 주요 재무비율을 계산해 GitHub Pages 대시보드로 제공하는 자동화 프로젝트입니다.
 
 ## 🔗 대시보드
-https://hsc-class02.github.io/SoNo-sky/
+https://hsc-class02.github.io/wj-LG/
 
 상단에는 매출·영업이익·순이익 추이와 수익성 지표, 하단에는 **Annual / Half-year / Quarterly** 3개 표와 국내 Peer Firms 표를 제공합니다.
 
