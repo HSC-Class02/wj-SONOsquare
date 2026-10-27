@@ -5,7 +5,7 @@
 DART(OpenDART)에서 SoNo-sky 관련 정기보고서의 재무정보를 수집하고 주요 재무비율을 계산해 GitHub Pages 대시보드로 제공하는 자동화 프로젝트입니다.
 
 ## 🔗 대시보드
-https://hsc-class02.github.io/wj-LG/
+https://hsc-class02.github.io/wj-SONOsquare/
 
 상단에는 매출·영업이익·순이익 추이와 수익성 지표, 하단에는 **Annual / Half-year / Quarterly** 3개 표와 국내 Peer Firms 표를 제공합니다.
 
